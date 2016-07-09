@@ -1,4 +1,0 @@
-1,A
-2,B
-3,C
-https://app.mybinder.org:80/2191189001/notebooks/GitHubNotebook.ipynb
